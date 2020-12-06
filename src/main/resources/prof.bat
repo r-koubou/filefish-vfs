@@ -1,0 +1,1 @@
+java -Xrunhprof:cpu=times,file=log.txt -cp .;D:/lib/commons-net-1.1.0/src;D:/lib/commons-net-1.1.0/commons-net-1.1.0.jar;D:/lib/jcifs_0.7.15/jcifs-0.7.15.jar com.sexyprogrammer.lib.vfs.sample.VFSShell

@@ -1,0 +1,8 @@
+create_file=ファイルを生成しています：{0}
+delete_file=ファイルを削除しています:{0}
+copy_file=ファイルをコピー中：{0}
+move_file=ファイルを移動中：{0}
+md5_hash=ハッシュ値を計算中：{0}
+get_content=読み込み中: {0}
+searching=検索中: {0}
+get_children=ディレクトリリストを取得中：{0}

@@ -1,0 +1,12 @@
+file_creation=ファイル作成に失敗しました。{0}
+file_deletion=ファイル削除に失敗しました。{0}
+file_not_exists=ファイルが存在しません。{0}
+file_system_not_exists=ファイルシステムが存在しません。{0}
+manipulation_not_available={0} に操作 {1} は使用できません。
+manipulation_stopped=処理が中止されました。
+io_exception=入出力エラーが発生しました。
+system_error=システムエラーです。制作者にご連絡ください。
+wrong_overwrite=上書き出来ません。\n{0}\n↓\n{1}
+wrong_path=不正なパスです。{0}
+wrong_permission=ファイルの権限がありません。{0}
+wrong_user=ユーザーアカウントが正しくありません。

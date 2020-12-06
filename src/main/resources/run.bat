@@ -1,0 +1,1 @@
+java -cp .;..\lib\ant.jar;..\lib\commons-codec-1.3.jar;..\lib\commons-httpclient-3.0-rc2.jar;..\lib\commons-logging-api.jar;..\lib\commons-logging.jar;..\lib\commons-net-1.4.0.jar;..\lib\fastfile.jar;..\lib\filefish.jar;..\lib\jakarta-oro-2.0.8.jar;..\lib\jcifs-1.2.3.jar;..\lib\jlha.jar com.nullfish.lib.vfs.sample.VFSShell

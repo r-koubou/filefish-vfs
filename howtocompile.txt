@@ -1,0 +1,11 @@
+How to build FileFish
+*You need Java6.
+1,Install Maven2 and configure the path. 
+2,Eexecute lib/installjar.bat
+3,Type "mvn package"
+
+FileFishのビルド方法
+※コンパイルにはJava6が必要です。
+1，Maven2をインストールしパスを通してください
+2，lib/installjar.batを実行してください
+3, "mvn package"を実行してください
